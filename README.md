@@ -22,7 +22,7 @@ Give the example
 And repeat
 
 until finished
-End with an example of getting some data out of the system or using it for a little demo
+End with an example of getting some data 
 
 Running the tests
 Explain how to run the automated tests for this system
