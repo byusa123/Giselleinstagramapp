@@ -19,7 +19,7 @@ Installing
 A step by step series of examples that tell you how to get a development env running
 
 Running the tests
-Explain 
+ 
 
 Break down into end to end tests
 Explain what these tests test and why
