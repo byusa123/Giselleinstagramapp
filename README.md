@@ -18,7 +18,7 @@ https://github.com/byusa123/Giselleinstagramapp.git
 Installing
 A step by step series of examples that tell you how to get a development env running
 
-Running the tests
+Running the 
  
 
 Break down into end to end tests
