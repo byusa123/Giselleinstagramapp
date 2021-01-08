@@ -19,7 +19,7 @@ Installing
 A step by step series of examples that tell you how to get a development env running
 
 Break down into
-Explain what these tests test and why
+
 
 Give an example
 And coding style tests
