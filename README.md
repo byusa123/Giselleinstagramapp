@@ -22,7 +22,7 @@ Give the example
 And repeat
 
 until finished
-End with an example of  
+End with an   
 
 Running the tests
 Explain how to run the automated tests for this system
