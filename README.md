@@ -21,9 +21,6 @@ Say what the step will be
 Give the example
 And repeat
 
- 
-    
-
 Running the tests
 Explain how to run the automated tests for this system
 
