@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 """
 
 import os
-from whitenoise import WhiteNoise
+# from whitenoise import WhiteNoise
 
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -60,7 +60,7 @@ MIDDLEWARE = [
 
     # Simplified static file serving.
     # https://warehouse.python.org/project/whitenoise/
-    'whitenoise.middleware.WhiteNoiseMiddleware',
+    # 'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
