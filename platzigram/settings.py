@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     #Local Apps
     'posts',
     'users',
+    'whitenoise',
 ]
 
 MIDDLEWARE = [
